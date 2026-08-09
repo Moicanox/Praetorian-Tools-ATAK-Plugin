@@ -1,0 +1,291 @@
+PRAETORIAN TOOLS NON-COMMERCIAL BINARY LICENSE
+Version 1.0
+
+Praetorian Tools for ATAK
+
+Developed by:
+Lorenzo Bonanni
+
+Contact:
+praetorian.c2.it@gmail.com
+
+Copyright © 2026 Lorenzo Bonanni.
+All rights reserved.
+
+
+1. GRANT OF LICENSE
+
+Subject to the terms and conditions of this License, the copyright holder
+grants you a limited, personal, non-exclusive, non-transferable,
+non-sublicensable and revocable license to download, install and use the
+official compiled binary version of Praetorian Tools ("Software") solely
+for lawful, non-commercial purposes.
+
+No ownership rights, intellectual property rights, source code rights or
+other proprietary rights are transferred under this License.
+
+
+2. PERMITTED USE
+
+You may:
+
+a. Download the official Software binary from an authorized distribution
+   repository or distribution location designated by the copyright holder.
+
+b. Install and execute the unmodified Software on compatible devices.
+
+c. Use the Software for personal, educational, research, evaluation,
+   testing, training or governmental non-commercial purposes.
+
+d. Make a reasonable number of backup copies solely for your own lawful
+   use, provided that such copies are not distributed to third parties.
+
+
+3. PROHIBITED USE
+
+Unless expressly authorized in writing by the copyright holder, you may not:
+
+a. Use the Software, directly or indirectly, for commercial purposes,
+   commercial services, resale, paid products, paid integration services,
+   commercial consultancy, commercial training or any other activity
+   primarily intended for commercial advantage or monetary compensation.
+
+b. Sell, rent, lease, sublicense, publish, redistribute, mirror, repackage,
+   bundle or otherwise make copies of the Software available to third
+   parties.
+
+c. Modify, alter, patch, adapt, translate, customize or otherwise change
+   the Software.
+
+d. Create derivative works based upon the Software.
+
+e. Reverse engineer, decompile, disassemble, decode, decrypt or otherwise
+   attempt to derive, reconstruct, discover or obtain the source code,
+   internal structure, algorithms, implementation details or internal
+   operation of the Software, except only to the minimum extent that such
+   activity is expressly permitted by mandatory applicable law
+   notwithstanding this restriction.
+
+f. Analyze or manipulate the Software for the purpose of producing a
+   modified, competing, derivative or functionally replicated version of
+   the Software, except where such restriction is prohibited by mandatory
+   applicable law.
+
+g. Bypass, disable, remove, circumvent or interfere with any technical
+   protection, integrity check, signing mechanism, authentication mechanism,
+   security feature or other protection incorporated into the Software.
+
+h. Remove, alter, obscure or falsify any copyright notice, trademark,
+   attribution, proprietary notice, developer identification, product name
+   or other identifying information contained in the Software.
+
+i. Represent any modified, repackaged, unofficial or derivative version of
+   the Software as an official Praetorian Tools release.
+
+j. Use the name "Praetorian Tools", "Praetorian C2", associated logos,
+   graphical elements or other identifying elements to distribute or
+   promote unauthorized versions of the Software.
+
+
+4. REDISTRIBUTION
+
+Redistribution of the Software is not permitted unless prior written
+authorization has been obtained from the copyright holder.
+
+Third parties wishing to obtain Praetorian Tools must download the Software
+from an official distribution location designated by the copyright holder.
+
+Providing a link to the official distribution page or official release
+repository is permitted.
+
+Uploading copies of the APK or other Software binaries to third-party
+websites, repositories, application stores, file-sharing services or other
+distribution platforms is not permitted without prior written authorization.
+
+
+5. SOURCE CODE
+
+This License applies to the compiled binary distribution of Praetorian
+Tools.
+
+No source code is provided or licensed under this License.
+
+The availability of the compiled Software does not grant any right to
+obtain, access, reconstruct, derive, modify, publish or distribute the
+corresponding source code.
+
+No rights are granted to produce modified builds, derivative builds,
+recompiled versions or unofficial versions of the Software.
+
+
+6. COMMERCIAL LICENSING AND SPECIAL AUTHORIZATION
+
+Commercial use, commercial integration, redistribution, modification or
+any use outside the permissions expressly granted by this License requires
+prior written authorization from the copyright holder.
+
+Such authorization may be subject to a separate license agreement.
+
+Requests for commercial licensing, redistribution rights, integration,
+modification or other special authorization must be submitted to:
+
+Lorenzo Bonanni
+praetorian.c2.it@gmail.com
+
+No permission shall be considered granted unless explicitly provided in
+writing by the copyright holder.
+
+
+7. THIRD-PARTY SOFTWARE AND PLATFORMS
+
+The Software may interact with, operate on, depend upon or be compatible
+with third-party software, platforms, libraries, services, protocols or
+products.
+
+Such third-party components remain subject to their respective licenses,
+terms, conditions and intellectual property rights.
+
+This License does not grant any rights in third-party software, products,
+services, names, logos or trademarks.
+
+Praetorian Tools is distributed independently unless otherwise explicitly
+stated.
+
+
+8. ATAK AND TAK ECOSYSTEM
+
+Praetorian Tools is software designed to operate with compatible TAK/ATAK
+environments.
+
+Any reference to ATAK, TAK, TAK.gov or related products, services or
+technologies is made solely to identify compatibility or intended
+functionality.
+
+All third-party names, trademarks, products and associated intellectual
+property remain the property of their respective owners.
+
+No ownership, sponsorship, endorsement or official affiliation with any
+third party is implied unless expressly stated by the relevant rights
+holder.
+
+
+9. TRADEMARKS AND IDENTIFYING ELEMENTS
+
+Praetorian Tools, Praetorian C2 and associated product names, logos,
+graphics and identifying elements may not be used to represent,
+distribute or promote modified, unofficial or unauthorized versions of
+the Software.
+
+This License does not grant any trademark, branding or merchandising
+rights.
+
+All rights not expressly granted remain reserved.
+
+
+10. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE".
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER
+MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+RELIABILITY, AVAILABILITY, ACCURACY, COMPATIBILITY, SECURITY OR
+NON-INFRINGEMENT.
+
+THE USER ASSUMES ALL RISKS ASSOCIATED WITH INSTALLING, CONFIGURING AND
+USING THE SOFTWARE.
+
+THE SOFTWARE IS NOT GUARANTEED TO OPERATE WITHOUT INTERRUPTION, ERRORS,
+INCOMPATIBILITIES OR DATA LOSS.
+
+
+11. OPERATIONAL USE
+
+The Software is provided as a software tool and the user remains solely
+responsible for determining whether it is suitable for a particular
+environment, device, network, operational scenario or intended purpose.
+
+The copyright holder makes no guarantee regarding the suitability of the
+Software for safety-critical, mission-critical, tactical, military,
+emergency or other operational activities.
+
+Users remain responsible for independently verifying information produced,
+displayed, transmitted or processed through the Software before relying
+upon it for operational decisions.
+
+
+12. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER
+AND DEVELOPER SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES ARISING FROM OR
+RELATED TO THE DOWNLOAD, INSTALLATION, CONFIGURATION, USE, MISUSE OR
+INABILITY TO USE THE SOFTWARE.
+
+THIS INCLUDES, WITHOUT LIMITATION, LOSS OR CORRUPTION OF DATA, LOSS OF
+PROFITS, LOSS OF BUSINESS, INTERRUPTION OF OPERATIONS, COMMUNICATION
+FAILURES, NETWORK FAILURES, EQUIPMENT DAMAGE OR OTHER TECHNICAL OR
+OPERATIONAL CONSEQUENCES.
+
+THE USER ASSUMES FULL RESPONSIBILITY FOR THE USE OF THE SOFTWARE.
+
+
+13. USER RESPONSIBILITY
+
+The user is responsible for ensuring that the installation and use of the
+Software complies with all applicable laws, regulations, policies,
+organizational requirements and third-party agreements.
+
+The user is also responsible for obtaining any authorization required for
+the devices, networks, systems or environments in which the Software is
+installed or used.
+
+
+14. TERMINATION
+
+The rights granted under this License terminate automatically and
+immediately if the user fails to comply with any of its terms.
+
+Upon termination, the user must:
+
+a. Immediately cease using the Software.
+
+b. Uninstall the Software from all devices under the user's control.
+
+c. Delete all copies of the Software in the user's possession or control.
+
+Termination does not limit any other rights or remedies available to the
+copyright holder under applicable law.
+
+
+15. RESERVATION OF RIGHTS
+
+The Software remains the intellectual property of the copyright holder.
+
+All rights not expressly granted under this License are reserved.
+
+Nothing in this License shall be interpreted as granting rights by
+implication, estoppel or otherwise beyond those expressly stated herein.
+
+
+16. ACCEPTANCE OF LICENSE
+
+By downloading, installing, executing, copying or otherwise using
+Praetorian Tools, you acknowledge that you have read and understood this
+License and agree to be bound by its terms.
+
+If you do not agree with the terms of this License, you are not authorized
+to download, install or use the Software.
+
+
+17. CONTACT
+
+For licensing inquiries, permissions or other matters concerning this
+License, contact:
+
+Lorenzo Bonanni
+Email: praetorian.c2.it@gmail.com
+
+
+Copyright © 2026 Lorenzo Bonanni.
+All rights reserved.
